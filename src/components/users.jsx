@@ -1,4 +1,3 @@
-// src/users.js
 export const userData = [
   { 
     id: 1, 
